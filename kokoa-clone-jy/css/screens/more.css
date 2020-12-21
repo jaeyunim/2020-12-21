@@ -1,0 +1,53 @@
+.more.user-component__title{
+    color: rgba(0, 0, 0, 1);
+    font-size: 22px;
+}
+
+.user-component__subtitle__more{
+    margin-top: 10px;
+    font-size: 14px;
+    color: rgba(0,0,0,0.5);
+}
+
+.user-component__avatar__more{
+    height: 55px;
+    width: 55px;
+    border-radius: 19px;
+    margin-right: 19px;
+}
+
+.more__introbar{
+    margin-bottom: 20px;
+}
+
+.find-etc__secondbar{
+    display: flex;
+    padding-bottom: 30px;
+    border-bottom: 1.5px solid rgba(0,0,0,0.3);
+    
+}
+
+.find-etc__secondbar__post{
+    margin-right: 26px;
+}
+
+.find-etc__secondbar__post:last-child{
+    padding-left: 13px;
+}
+
+.suggestions__icon{
+    height: 50px;
+    width: 50px;
+    background-color: sandybrown;
+    border-radius: 10px;
+    margin-right: 25px;
+}
+
+.suggestions__icons{
+    display: flex;
+}
+
+.suggestions__title{
+    padding: 15px 0px;
+}
+
